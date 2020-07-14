@@ -1,1 +1,4 @@
+name: Reasonings
 theme: jekyll-theme-hacker
+markdown: GFM
+highlighter: rouge
